@@ -1,0 +1,57 @@
+# Core LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.lot
+*.lof
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.dvi
+*.ps
+
+# Bibliography auxiliary files (BibTeX/Biber)
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+# Glossaries and Indexes
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.idx
+*.ilg
+*.ind
+*.ist
+*.acn
+*.acr
+*.alg
+
+# Beamer navigation symbols
+*.nav
+*.snm
+*.vrb
+
+# Output PDF (Optional: Keep commented if you WANT to version control the PDF)
+# *.pdf
+
+# Editor specific files
+# VS Code (LaTeX Workshop)
+.vscode/
+# TeXShop
+.texpadtmp
+# Emacs (AuCTeX)
+auto/
+*.el
+# Kile
+*.kilepr
+# LyX
+*.lyx~
+
+# OS generated files
+.DS_Store
+Thumbs.db
